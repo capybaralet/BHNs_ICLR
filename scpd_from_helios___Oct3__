@@ -1,0 +1,2 @@
+I copied the project directory I was using for active learning experiments from helios:
+scp -r /home/capybara/copy_to_helios_BayesianHypernetDK/bayesian_hypernet_dk ./
